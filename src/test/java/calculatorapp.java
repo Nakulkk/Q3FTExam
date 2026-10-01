@@ -1,0 +1,1 @@
+/* Legacy placeholder file intentionally left without a Java class to avoid duplicate test class conflicts. */
